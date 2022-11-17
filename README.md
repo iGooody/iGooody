@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-a.text.hover {
+a.text:hover {
   text-decoration: none;
   color: #666;
 }
