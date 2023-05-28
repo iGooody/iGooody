@@ -4,4 +4,4 @@
 ## Languages and tools
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=550&lines=Here+you+can+see+list+of+my+tech+skills+&#128064;)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,sass,css,html,vscode,figma,graphql,jquery,nodejs,ps,github,styledcomponents,bootstrap&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,sass,css,html,docker,figma,graphql,jquery,nodejs,jest,github,styledcomponents,bootstrap&perline=8)](https://skillicons.dev)
